@@ -1,0 +1,27 @@
+{
+  "name": "gaminghelper",
+  "version": "1.0.0",
+  "description": "Helper software for GM's",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathankresge/gamingHelper.git"
+  },
+  "author": "Jonathan Kresge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathankresge/gamingHelper/issues"
+  },
+  "homepage": "https://github.com/jonathankresge/gamingHelper#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "electron": "^1.7.5",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
